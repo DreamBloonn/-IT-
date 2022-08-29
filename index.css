@@ -1,0 +1,90 @@
+* {
+  text-decoration: none;
+}
+
+.navbar {
+  box-shadow: 0 2px 8px #ccc;
+}
+.navbar .navbar-brand {
+  font-size: 2rem;
+  color: #1e7e34 !important;
+}
+
+.zhuti {
+  margin-top: 4.6875rem;
+  height: 44.5rem;
+  background-image: url(./images/home-bg.jpg);
+  background-size: cover;
+}
+.mask {
+  height: 100%;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 60px 0;
+}
+
+.zhuti .wenzi {
+  text-align: center;
+}
+
+#bbs {
+  padding: 4rem;
+}
+#bbs .box {
+  border-radius: 4px;
+  padding: 16px;
+}
+#bbs .box a {
+  color: #212121;
+  text-decoration: none;
+}
+#bbs .box:hover {
+  background-color: #f1f1f1;
+}
+
+#bootstrap,
+#html5 {
+  background: #f8f8f8;
+  padding: 4rem 0;
+}
+#bootstrap .mai-icon,
+#html5 .mai-icon {
+  background: rgb(64, 210, 177);
+  color: #fff;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  line-height: 40px;
+  margin-right: 20px;
+}
+
+#bootstrap {
+  background: #fff;
+}
+
+#course {
+  padding: 4rem 0;
+  text-align: center;
+}
+#course > .container > .row .hh {
+  padding-bottom: 3.75rem;
+}
+#course > .container > .row .c-item {
+  margin-top: 1.25rem;
+}
+
+#app {
+  padding: 4rem 0;
+}
+
+#contact {
+  background: url(./images/contact-bg.jpg) no-repeat;
+  background-size: cover;
+  color: #ffffff;
+}
+
+#footo {
+  font-weight: 400;
+  text-align: center;
+  padding: 20px;
+}/*# sourceMappingURL=index.css.map */
